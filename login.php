@@ -313,7 +313,7 @@ a{color:inherit;text-decoration:none}
         <div class="group">
         <select name="user_type" class="box input">
          <option class='input sel' value="user">user</option>
-         <option class='input sel' value="admin">admin</option>
+<!--          <option class='input sel' value="admin">admin</option> -->
       </select>
         </div>
         <div class="group">
