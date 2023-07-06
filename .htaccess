@@ -1,0 +1,23 @@
+# Turn Rewrite Engine On
+RewriteEngine on
+
+# Rewrite for contact.php
+RewriteRule ^contact$  contact.php
+RewriteRule ^home$   home.php 
+RewriteRule ^shop$   shop.php 
+RewriteRule ^about$   about.php 
+RewriteRule ^orders$   orders.php 
+RewriteRule ^login$   login.php 
+RewriteRule ^search_page$   search_page.php 
+RewriteRule ^logout$   logout.php 
+RewriteRule ^cart$    cart.php
+RewriteRule ^admin_contacts$   admin_contacts.php 
+RewriteRule ^admin_page$   admin_page.php
+RewriteRule ^checkout$   checkout.php
+RewriteRule ^admin_users$   admin_users.php
+RewriteRule ^admin_products$   admin_products.php
+RewriteRule ^admin_orders$   admin_orders.php
+RewriteRule ^admin_orders$   admin_orders.php
+RewriteRule ^admin_orders$   admin_orders.php
+RewriteRule ^admin_orders$   admin_orders.php
+RewriteRule ^admin_orders$   admin_orders.php
